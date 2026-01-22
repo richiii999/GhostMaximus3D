@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+/GhostMaximus3D/Saved/Logs
+GhostMaximus3D/Saved/Config/CrashReportClient/UECC-Windows-AE2F5E5B4DF4ECCB87730084CB6CF968/CrashReportClient.ini
