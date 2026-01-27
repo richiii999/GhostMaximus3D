@@ -15,7 +15,10 @@
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/SF/SBEG7QHYRBHKGYN87G1U1M.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/XJ/I5N3A4HORBB7PXYVZ12VPJ.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1M/9BJ18EQAHGPMZ6S4RXERGU.uasset",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/StarterContent/Textures/T_Bush_Mat.uasset"
+				"D:/GhostMaximus3D/GhostMaximus3D/Content/StarterContent/Textures/T_Bush_Mat.uasset",
+				"D:/GhostMaximus3D/GhostMaximus3D/Content/CollectableTest.umap",
+				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectable.uasset",
+				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectable_Blueprint.uasset"
 			]
 		}
 	]
