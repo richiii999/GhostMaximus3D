@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/Enemy.umap",
 				"D:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/GhostEnemy.uasset",
+				"D:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ZV/KA105YZTF3ACV2HV4RWTPA.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2V/Y4Q7PDP3DJPKN5U4KHOO0L.uasset",
@@ -19,11 +23,7 @@
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/StarterContent/Textures/T_Bush_Mat.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/CollectableTest.umap",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectable.uasset",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectable_Blueprint.uasset",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/CollectableTest1.umap",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/CollectableTest2.umap",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/CollectablesText.uasset"
+				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectable_Blueprint.uasset"
 			]
 		}
 	]
