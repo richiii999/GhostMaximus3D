@@ -5,16 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/mainmenumap.umap",
-				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/Menugamemode.uasset",
-				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/Mainmenu.uasset",
-				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/28_The_Icetruck_Killer__1vxACTd0jfI_.uasset",
-				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/Copy_of_Onepage.uasset",
-				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/28_The_Icetruck_Killer.uasset",
-				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/bone-crack-meme.uasset",
-				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/Enemy.umap",
 				"D:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
-				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/GhostEnemy.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ZV/KA105YZTF3ACV2HV4RWTPA.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2V/Y4Q7PDP3DJPKN5U4KHOO0L.uasset",
@@ -28,7 +19,17 @@
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/StarterContent/Textures/T_Bush_Mat.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/CollectableTest.umap",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectable.uasset",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectable_Blueprint.uasset"
+				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectable_Blueprint.uasset",
+				"D:/GhostMaximus3D/GhostMaximus3D/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/mainmenumap.umap",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/Menugamemode.uasset",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/Mainmenu.uasset",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/28_The_Icetruck_Killer__1vxACTd0jfI_.uasset",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/Copy_of_Onepage.uasset",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/28_The_Icetruck_Killer.uasset",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/bone-crack-meme.uasset",
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/Enemy.umap",
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/GhostEnemy.uasset"
 			]
 		}
 	]
