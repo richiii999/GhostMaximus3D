@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/Enemy.umap",
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/GhostEnemy.uasset",
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/EnenmyBullet.uasset",
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/EnemyBullet.uasset",
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/Levels/Enemy.umap",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ZV/KA105YZTF3ACV2HV4RWTPA.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2V/Y4Q7PDP3DJPKN5U4KHOO0L.uasset",
@@ -37,9 +43,7 @@
 				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/28_The_Icetruck_Killer__1vxACTd0jfI_.uasset",
 				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/Copy_of_Onepage.uasset",
 				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/28_The_Icetruck_Killer.uasset",
-				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/bone-crack-meme.uasset",
-				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/Enemy.umap",
-				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/GhostEnemy.uasset"
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/bone-crack-meme.uasset"
 			]
 		}
 	]
