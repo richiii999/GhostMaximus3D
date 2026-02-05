@@ -20,17 +20,23 @@
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/CollectableTest.umap",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectable.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectable_Blueprint.uasset",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/CollectableTest1.umap",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/CollectableTest2.umap",
+				"D:/GhostMaximus3D/GhostMaximus3D/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"D:/GhostMaximus3D/GhostMaximus3D/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/CollectablesText.uasset",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectables/CollectableTest1.umap",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectables/CollectableTest2.umap",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectables/Collectable.uasset",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectables/CollectablesText.uasset",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/NextLevelString.uasset",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectables/6.umap",
-				"D:/GhostMaximus3D/GhostMaximus3D/Content/Collectables/7.umap"
+				"C:/Users/armon/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/armon/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/FirstPerson/SpecialOBJ/NS_Shield.uasset",
+				"C:/Users/armon/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/FirstPerson/SpecialOBJ/ShieldMat.uasset",
+				"C:/Users/armon/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/FirstPerson/ArcadeEditorSphere1.uasset",
+				"C:/Users/armon/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/FirstPerson/SpecialOBJ/ArcadeEditorSphere1.uasset",
+				"C:/Users/armon/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/FirstPerson/SpecialOBJ/ShieldSphere.uasset",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/mainmenumap.umap",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/Menugamemode.uasset",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/Mainmenu.uasset",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/28_The_Icetruck_Killer__1vxACTd0jfI_.uasset",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/Copy_of_Onepage.uasset",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/28_The_Icetruck_Killer.uasset",
+				"C:/Users/jackd/OneDrive/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/MenuUI/bone-crack-meme.uasset",
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/Enemy.umap",
+				"C:/Users/alexiz/Documents/GitHub/GhostMaximus3D/GhostMaximus3D/Content/GhostEnemy.uasset"
 			]
 		}
 	]
